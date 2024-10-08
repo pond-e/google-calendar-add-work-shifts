@@ -1,0 +1,5 @@
+*.json
+/__pycache__
+/python-env
+hoge.py
+google_calendar_api_test.py
